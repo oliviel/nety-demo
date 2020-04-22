@@ -7,7 +7,7 @@ const App = () => {
   return ( 
     <div>
       <h1>Hello from React folks {count}</h1>
-  <button onClick={() => setCount(count +1)} >Click ME</button>
+      <button onClick={() => setCount(count +1)} >Click ME</button>
     </div>
   );
 }

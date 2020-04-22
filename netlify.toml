@@ -1,6 +1,6 @@
-[build]
-  command = "yarn build"
-  publish = "./dist"
+# [build]
+#   command = "yarn build"
+  # publish = "dist"
 
   # [dev]
   #   port = 5678
