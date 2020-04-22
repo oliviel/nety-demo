@@ -2,6 +2,14 @@
   command = "yarn build"
   publish = "dist"
 
+[[redirects]]
+  from = "/about"
+  to = "/about"
+  status = 200
+  force = false
+
+
+
   # [dev]
   #   port = 5678
   #   command = "yarn start"
